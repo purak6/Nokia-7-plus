@@ -63,7 +63,7 @@ PRODUCT_STATIC_BOOT_CONTROL_HAL := \
     libz
 
 # Device identifiers
-PRODUCT_NAME := Syberia_DRG
+PRODUCT_NAME := syberia_DRG
 PRODUCT_BRAND := nokia
 PRODUCT_DEVICE := DRG
 PRODUCT_MANUFACTURER := nokia
